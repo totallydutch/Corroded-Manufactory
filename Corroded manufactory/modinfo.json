@@ -1,0 +1,10 @@
+{
+	"id": "CRID",
+	"name": "Corroded manufactory",
+	"authors": "TotallyDutch",
+	"description": "WIP rainworld region",
+	"requirements": ["regionkit", "pom", "rwremix", "crs"],
+	"requirements_names": ["RegionKit", "Pom", "Rain World Remix", "Custom Regions Support", "moreslugcats"],
+	"tags": ["Regions"],
+	"checksum_override_version": true
+}
