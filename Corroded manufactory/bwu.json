@@ -1,0 +1,13 @@
+{
+  "Name": "Corroded manufactory",
+  "ID": "CRID",
+  "Version": "",
+  "WorkshopID": 3539078233,
+  "LatestGameVersion": "v1.10.4",
+  "UpdateTitle": true,
+  "UpdateDescription": false,
+  "MarkAsPublic": true,
+  "Tags": [
+    "Regions"
+  ]
+}

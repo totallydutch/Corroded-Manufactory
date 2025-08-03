@@ -52,16 +52,7 @@ CRID_C08 : DISCONNECTED, CRID_S04, GATE_CRID_CC, CRID_B09
 END ROOMS
 
 CREATURES
-//creatures go here
-END CREATURES
-
-BAT MIGRATION BLOCKAGES
-CRID_C03
-END BAT MIGRATION BLOCKAGES
-END ROOMS
-
-CREATURES
-OFFSCREEN : 0-Vulture
+OFFSCREEN : 0-Vulture-2
 CRID_B05 : 3-BlueLizard, 4-PinkLizard
 CRID_C01 : 3-GreenLizard
 CRID_A05 : 3-SmallCentipede-2
@@ -71,7 +62,8 @@ CRID_B01 : 2-BlueLizard, 5-Eggbug
 CRID_C03 : 6-PoleMimic-{9}
 CRID_B08 : 4-BlueLizard
 CRID_A14 : 2-PinkLizard
-CRID_C07 : 2-YellowLizard-2
+CRID_C06 : 2-YellowLizard-2
+CRID_C07 : 2-YellowLizard-3
 CRID_B02 : 3-BlueLizard
 CRID_B07 : 2-GreenLizard
 CRID_C04 : 4-WhiteLizard
